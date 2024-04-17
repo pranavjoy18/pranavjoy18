@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranav...
 - 👀 I’m interested in : Deep Learning and Problem Solving
-- 🌱 I’m currently learning : Unity 
-- 💞️ I’m looking to collaborate on : Deep reinforcement learning
+- 🌱 I’m currently learning : GenAI systems 
+- 💞️ I’m looking to collaborate on : Development of compound AI systems 
 - 📫 How to reach me : [mail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pranav.sai.work@gmail.com)
 
 <!---
